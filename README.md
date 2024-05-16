@@ -1,6 +1,6 @@
 # Oven-Control-Using-TM4C123GH6PM-and-Putty
 
-## This is a project for controlling an oven using a Tiva boards and utilizing RTOS
+## This is a project for controlling an oven, utilizing RTOS
 
 ### First the user enters the setpoint temperature using ssh (in our case we used Putty)
 
